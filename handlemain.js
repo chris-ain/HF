@@ -1,13 +1,12 @@
-import { chessScene, id} from "./chess.js";
-import { curtains, curtainsmain } from "./curtainsmain.js";
-import { curtainsTrans,curtainsTransFunc } from "./curtainsTrans.js";
-import { curtainsAg, curtainsgenturfunc } from "./curtainsagentur.js";
-import { curtainsProjDet,curtainsDet} from "./curtainsdet.js";
-import { curtainsP, projfunc} from './projekte.js'
-import { trans } from "./menu.js";
-import { menuItems } from './menuItems.js';
-import { curtainsMainTransFunc, curtainsMainTrans } from './curtainsMainTrans.js'
-
+import { chessScene, id} from "https://cdn.statically.io/gh/chris-ain/HF/main/chess.js";
+import { curtains, curtainsmain } from "https://cdn.statically.io/gh/chris-ain/HF/main/curtainsmain.js";
+import { curtainsTrans,curtainsTransFunc } from "https://cdn.statically.io/gh/chris-ain/HF/main/curtainsTrans.js";
+import { curtainsAg, curtainsgenturfunc } from "https://cdn.statically.io/gh/chris-ain/HF/main/curtainsagentur.js";
+import { curtainsProjDet,curtainsDet} from "https://cdn.statically.io/gh/chris-ain/HF/main/curtainsdet.js";
+import { curtainsP, projfunc} from 'https://cdn.statically.io/gh/chris-ain/HF/main/projekte.js'
+import { trans } from "https://cdn.statically.io/gh/chris-ain/HF/main/menu.js";
+import { menuItems } from 'https://cdn.statically.io/gh/chris-ain/HF/main/menuItems.js';
+import { curtainsMainTransFunc, curtainsMainTrans } from 'https://cdn.statically.io/gh/chris-ain/HF/main/curtainsMainTrans.js'
 
 window.addEventListener("load", function(event) {
 
